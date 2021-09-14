@@ -1,2 +1,4 @@
 /.env
 /sentimentenv
+.vscode/settings.json
+.gitignore
